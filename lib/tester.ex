@@ -9,10 +9,10 @@ defmodule Tester do
   ## Examples
 
       iex> Tester.hello()
-      :world
+      :wired
 
   """
   def hello do
-    :world
+    :wired
   end
 end
